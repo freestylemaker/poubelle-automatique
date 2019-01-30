@@ -43,7 +43,7 @@ if(distance < 30 && distance>0) {
   servoMotor.write(10);
 }
 }
-'''
+```
 
 ---
 
