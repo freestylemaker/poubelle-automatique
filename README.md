@@ -6,7 +6,7 @@
 
 ---
 # vidéo du montage
-[![video](https://drive.google.com/open?id=1KCSdqdoHjAakh4zJk2HxLCmZ20t8hNeA)
+[video](https://drive.google.com/open?id=1KCSdqdoHjAakh4zJk2HxLCmZ20t8hNeA)
 ---
 
 # Montage
