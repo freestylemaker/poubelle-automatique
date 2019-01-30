@@ -50,8 +50,8 @@ if(distance < 30 && distance>0) {
 # Bibliothéques
 
 ``` c++
-#### Ultrasonic Ranging Module HC - SR04
-[link text]https://www.amazon.fr/junkai-t%C3%A9l%C3%A9m%C3%A9trie-ultrasons-Distance-ultrasonique/dp/B07K14XXWQ/ref=sr_1_3?s=industrial&ie=UTF8&qid=1548842913&sr=1-3&keywords=HCSR04)
+
+[capteur HC-SR04]https://www.amazon.fr/junkai-t%C3%A9l%C3%A9m%C3%A9trie-ultrasons-Distance-ultrasonique/dp/B07K14XXWQ/ref=sr_1_3?s=industrial&ie=UTF8&qid=1548842913&sr=1-3&keywords=HCSR04)
 
 LedControl matrix(12,11,10,1);
 ```
